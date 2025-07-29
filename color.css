@@ -1,0 +1,86 @@
+body {
+    background-image: 
+      linear-gradient(135deg, #ff9a9e, #fad0c4);
+    background-repeat: repeat;
+    background-size: cover;
+    height: 100vh;
+    margin: 0;
+  }
+  
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 6rem;
+    font-weight: 700;
+    color: #2d0714; /* bright pink example */
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 2px;
+    letter-spacing: 2px;
+  }
+
+
+  h3 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 2rem;
+    font-weight: 700;
+    color: #2d0714; /* bright pink example */
+    text-align:center;
+    letter-spacing: 0px;
+    width: fit-content;
+    margin-top: 0px;
+    
+  }
+.outer {
+    text-align: center;
+    
+}
+.center-box {
+    display: block;
+    width: fit-content;
+    margin: 0 auto; /* Center the box */
+    padding: 0px 20px; /* 10px top/bottom, 30px left/right */
+    border-radius: 52px;
+    background-color: rgba(255, 255, 255, 0.5);
+    text-align: center;
+    margin-top: 0;
+  }
+
+  .span {
+    display: block;
+
+  }
+
+  .button {
+    width: 150px;
+    height: 150px;
+    border: solid black 2px;
+    display: inline-block;
+  margin: 10px;
+  cursor: pointer;
+  }
+
+  .box {
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+  }
+
+  #gray {
+    background-color: gray;
+  }
+
+  #yellow {
+    background-color: yellow;
+  }
+  #blue {
+    background-color:blue;
+  }
+  #green {
+    background-color: green;
+  }
+
+  
+
+
+
