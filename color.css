@@ -80,6 +80,36 @@ h1 {
     background-color: green;
   }
 
+
+  @media (max-width: 768px) {
+    h1 {
+      font-size: 3rem;
+      margin-top: 50px;
+    }
+  
+    h3 {
+      font-size: 1.2rem;
+      padding: 0 10px;
+      margin: 10px auto;
+    }
+  
+    .button {
+      width: 80px;
+      height: 80px;
+      margin: 8px;
+    }
+  
+    .box {
+      width: 95%;
+      margin: 50px auto;
+    }
+  
+    .center-box {
+      padding: 10px 15px;
+    }
+  }
+  
+
   
 
 
